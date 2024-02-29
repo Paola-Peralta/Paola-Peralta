@@ -1,7 +1,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Paola </h1></summary>
-    <h3 align = "center"> I am a systems engineering student enthusiastic about software development, with an attitude of learning new skills and abilities. On GitHub, I share my projects that reflect my passion for technology and my dedication to improving my skills as a developer. </h3>
+    <h3 align = "center"> I am a systems engineering student enthusiastic about software development, with an attitude of learning new skills and abilities. On GitHub, I     
+    share my projects that reflect my passion for technology and my dedication to improving my skills as a developer. </h3>
   </ul>
 </div>
 
