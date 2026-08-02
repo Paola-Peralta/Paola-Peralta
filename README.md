@@ -10,21 +10,12 @@
 
 <div align="center">
 
-  <a href="mailto:paolaperalta063@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://www.upwork.com/freelancers/~01a8b7a386bdaab28a?mp_source=share" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Upwork-View%20My%20Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white"
-      alt="Upwork Profile"
-    />
-  </a>
-
+<a href="mailto:paolaperalta063@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.upwork.com/freelancers/~01a8b7a386bdaab28a?mp_source=share" target="_blank"><img  alt="upwork"  src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=Green"></a>
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
