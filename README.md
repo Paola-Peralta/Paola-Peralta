@@ -16,6 +16,14 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">👩‍💻 About Me</h2> 
+
+<ul>
+  <li>🎓 I am currently studying Systems Engineering.</li>
+  <li>⚛️ I am currently learning React to create modern, interactive, and responsive web applications.</li>
+  <li>🤝 I am open to freelance opportunities, internships, and collaborative projects.</li>
+  <li>🌎 I am motivated to work with people from different countries and professional backgrounds.</li> </ul>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -25,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,figma,c,python,git,django" />
+    <img src="https://skillicons.dev/icons?i=java,figma,c,python,git,django,nodejs,react," />
   </a>
 </p>
 
