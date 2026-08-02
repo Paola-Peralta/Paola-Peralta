@@ -2,7 +2,9 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Paola Danelia </h1></summary>
     <h3 align = "center"> I am a Systems Engineering passionate about software development, problem-solving, and creating practical digital solutions. 
-    I am also interested in freelance opportunities where I can contribute, gain experience, and collaborate with people from different backgrounds.</h3>
+    I am also interested in freelance opportunities where I can contribute, gain experience, and collaborate with people from different backgrounds.
+    
+    </h3>
 
   </ul>
 </div>
