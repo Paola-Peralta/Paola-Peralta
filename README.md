@@ -21,9 +21,6 @@
 
 <ul>
   <li>🎓 I am currently studying Systems Engineering.</li>
-  <li>⚛️ I am currently learning React to create modern, interactive, and responsive web applications.</li>
-  <li>🤝 I am open to freelance opportunities, internships, and collaborative projects.</li>
-  <li>🌎 I am motivated to work with people from different countries and professional backgrounds.</li> </ul>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
